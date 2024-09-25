@@ -1,0 +1,48 @@
+body{
+padding: 0;
+margin: 0;
+
+}
+.navbar{
+    background-color:  #003933;
+    font-family: Montserrat;
+    padding-left: 30px;
+    padding-top: 20px;
+}
+.nav-item{
+    padding-right: 5px;
+    text-align: center;
+}
+.navbar-brand{
+    padding-right: 100px;
+    padding-left: 20px;
+
+}
+button{
+    background-color: #cffc8b;
+    color: #003933;
+    border: none;
+   padding: 10px;
+  margin-left: 50px;
+}
+h3{
+    font-family:  Montserrat;
+    color: #caa14e;
+    padding-bottom: 15px;
+}
+#a{
+    color: white;
+    background-color: #003933;
+    padding-top: 80px;
+    padding-bottom: 100px;
+    padding-left: 10vw;
+    padding-right: 10vw;
+}
+p{
+    font-size: 20px;
+    padding-top: 20px;
+}
+img{
+    width: 50vh;
+
+}
